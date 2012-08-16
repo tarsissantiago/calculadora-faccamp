@@ -6,7 +6,9 @@ Calculadora (Trabalho 1)
 ===========
 
 Este projeto é é a base do trabalho de implentacão de uma Calculadora para os alunos de Projeto Integrador II da Faccamp.
+
 Lembre-se que que este é um projeto orientado a objetos. A clareza do código e o design também farão parte da avaliação (30% da nota).
+
 O projeto pode ser realizado em dupla.
 
 Especificação e Avaliação
@@ -27,8 +29,8 @@ Os pontos extras podem ser utilizados em qualquer nota do curso.
 Data e formato de entrega
 =========================
 O trabalho deve ser entregue em um formato zip e deverá ser apresentado por AMBOS os membros da dupla.
-27/09/2012 : 100% da nota 
-04/10/2012 : 70% da nota
+12/10/2012 : 100% da nota 
+19/10/2012 : 70% da nota
 
 O programa baseado em código não creditado ou utilizado em violação da sua licença será anulado.
 
