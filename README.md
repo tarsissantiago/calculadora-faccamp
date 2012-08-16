@@ -1,4 +1,4 @@
-Projeto interdisciplinar II
+Projeto Interdisciplinar II
 ===========================
 E-mail do professor: me@ederig.com
 
