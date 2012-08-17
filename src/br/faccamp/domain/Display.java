@@ -4,16 +4,24 @@ import br.faccamp.view.CalculadoraGUI;
 
 public class Display {
 	
-	private String display;
 	private CalculadoraGUI gui;
 
 	public Display(CalculadoraGUI gui) {
-		this.display = "";
 		this.gui = gui;
 	}
 
 	public void atualiza(String texto) {
-		gui.atualizaDisplay(texto);
+		if (getConteudo().equalsIgnoreCase("")) {
+			gui.atualizaDisplay(texto);	
+		}
+		else {
+			gui.atualizaDisplay((getConteudo()+texto));	
+		}
+		
+	}
+
+	private String getConteudo() {
+		return gui.getDisplay();
 	}
 
 }

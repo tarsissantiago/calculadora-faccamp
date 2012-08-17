@@ -93,13 +93,11 @@ public class Calculadora  {
 	}
 
 	public void processaCinco() {
-		// TODO Auto-generated method stub
-		
+			display.atualiza("5");	
 	}
 
 	public void processaSeis() {
-		// TODO Auto-generated method stub
-		
+			display.atualiza("6");	
 	}
 
 	public void processaVezes() {
@@ -142,8 +140,7 @@ public class Calculadora  {
 	}
 
 	public void processaVirgula() {
-		// TODO Auto-generated method stub
-		
+		display.atualiza(",");
 	}
 
 	public void processaIgual() {

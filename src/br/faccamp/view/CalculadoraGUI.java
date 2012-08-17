@@ -320,4 +320,7 @@ public class CalculadoraGUI {
 	public void atualizaDisplay(String texto) {
 		display.setText(texto);
 	}
+	public String getDisplay() {
+		return display.getText();
+	}
 }
