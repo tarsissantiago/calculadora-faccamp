@@ -153,4 +153,9 @@ public class Calculadora  {
 		
 	}
 
+	public void processaMais() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
