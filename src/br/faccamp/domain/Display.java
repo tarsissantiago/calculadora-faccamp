@@ -17,7 +17,11 @@ public class Display {
 		else {
 			gui.atualizaDisplay((getConteudo()+texto));	
 		}
-		
+	}
+	public void atualizaVirgula(String texto) {
+		if (getConteudo().indexOf(',')==-1) {
+			atualiza(texto);
+		}
 	}
 
 	private String getConteudo() {

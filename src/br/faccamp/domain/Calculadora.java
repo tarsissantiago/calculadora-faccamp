@@ -140,7 +140,7 @@ public class Calculadora  {
 	}
 
 	public void processaVirgula() {
-		display.atualiza(",");
+		display.atualizaVirgula(",");
 	}
 
 	public void processaIgual() {
