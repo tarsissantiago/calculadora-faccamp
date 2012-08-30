@@ -9,6 +9,10 @@ import javax.swing.JTextField;
 
 import br.faccamp.domain.Calculadora;
 import javax.swing.SwingConstants;
+import javax.swing.JMenuBar;
+import javax.swing.JMenu;
+import java.awt.Color;
+import javax.swing.JMenuItem;
 
 public class CalculadoraGUI {
 
@@ -138,6 +142,7 @@ public class CalculadoraGUI {
 				calculadora.processaSete();
 			}
 		});
+		buttonSete.setMnemonic(java.awt.event.KeyEvent.VK_NUMPAD7);
 		buttonSete.setBounds(45, 181, 63, 39);
 		frame.getContentPane().add(buttonSete);
 		
@@ -311,6 +316,10 @@ public class CalculadoraGUI {
 		});
 		btnLog.setBounds(340, 322, 63, 39);
 		frame.getContentPane().add(btnLog);
+		
+		JMenuBar menuBar = new JMenuBar();
+		menuBar.setBounds(45, 283, 132, 22);
+		frame.getContentPane().add(menuBar);
 	}
 	private void createMainFrame() {
 		frame = new JFrame();
