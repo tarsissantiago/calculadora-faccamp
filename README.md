@@ -31,8 +31,8 @@ Os pontos extras podem ser utilizados em qualquer nota do curso.
 Data e formato de entrega
 =========================
 O trabalho deve ser entregue em um formato zip e deverá ser apresentado por AMBOS os membros da dupla.
-- 12/10/2012 : 100% da nota (80% Trabalho, 20% Relatórios com andamento do trabalho)
-- 19/10/2012 : 70% da nota
+- 11/10/2012 : 100% da nota (80% Trabalho, 20% Relatórios com andamento do trabalho)
+- 18/10/2012 : 70% da nota
 
 O programa baseado em código não creditado ou utilizado em violação da sua licença será anulado.
 
